@@ -1,0 +1,613 @@
+{
+  "mensFashion": [
+    {
+      "id": 1,
+      "name": "Casual Overshirt",
+      "category": "Men's Fashion",
+      "price": 1799,
+      "currency": "INR",
+      "rating": 4.4,
+      "stock": 16,
+      "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=600&q=80",
+      "description": "Layer-friendly men's overshirt for relaxed everyday outfits."
+    },
+    {
+      "id": 2,
+      "name": "Premium Bomber Jacket",
+      "category": "Men's Fashion",
+      "price": 2499,
+      "currency": "INR",
+      "rating": 4.8,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=600&q=80",
+      "description": "Premium men's bomber jacket with a modern casual silhouette."
+    },
+    {
+      "id": 3,
+      "name": "Premium Slim Fit Shirt",
+      "category": "Men's Fashion",
+      "price": 1499,
+      "currency": "INR",
+      "rating": 4.6,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?auto=format&fit=crop&w=600&q=80",
+      "description": "Modern slim-fit men's shirt with a clean tailored look."
+    },
+
+    {
+      "id": 4,
+      "name": "Classic Polo T-Shirt",
+      "category": "Men's Fashion",
+      "price": 899,
+      "currency": "INR",
+      "rating": 4.4,
+      "stock": 31,
+      "image": "https://images.pexels.com/photos/2096476/pexels-photo-2096476.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Classic men's polo shirt with a comfortable smart-casual fit."
+    },
+    {
+      "id": 5,
+      "name": "Essential Cotton T-Shirt",
+      "category": "Men's Fashion",
+      "price": 699,
+      "currency": "INR",
+      "rating": 4.5,
+      "stock": 42,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&q=80",
+      "description": "Everyday men's cotton T-shirt with a simple comfortable design."
+    },
+    {
+      "id": 6,
+      "name": "Relaxed Fit Cargo Pants",
+      "category": "Men's Fashion",
+      "price": 1599,
+      "currency": "INR",
+      "rating": 4.3,
+      "stock": 20,
+      "image": "https://images.pexels.com/photos/26964993/pexels-photo-26964993.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Relaxed men's cargo pants with a practical casual silhouette."
+    },
+    {
+      "id": 7,
+      "name": "Straight Fit Chino Pants",
+      "category": "Men's Fashion",
+      "price": 1399,
+      "currency": "INR",
+      "rating": 4.6,
+      "stock": 27,
+      "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=600&q=80",
+      "description": "Straight-fit chino pants suitable for casual and semi-formal looks."
+    },
+    {
+      "id": 8,
+      "name": "Classic Formal Trousers",
+      "category": "Men's Fashion",
+      "price": 1699,
+      "currency": "INR",
+      "rating": 4.5,
+      "stock": 19,
+      "image": "https://images.pexels.com/photos/13339846/pexels-photo-13339846.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Classic formal trousers designed for office and occasion wear."
+    },
+    {
+      "id": 9,
+      "name": "Classic Oxford Shirt",
+      "category": "Men's Fashion",
+      "price": 1299,
+      "currency": "INR",
+      "rating": 4.5,
+      "stock": 24,
+      "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=600&q=80",
+      "description": "Classic men's Oxford shirt for smart casual and formal outfits."
+    }
+  ],
+  "womensFashion": [
+    {
+      "id": 1,
+      "name": "Elegant Floral Dress",
+      "category": "Women's Fashion",
+      "price": 1899,
+      "currency": "INR",
+      "rating": 4.7,
+      "stock": 22,
+      "image": "https://images.pexels.com/photos/3544455/pexels-photo-3544455.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Elegant floral dress with a feminine silhouette for casual and occasion wear."
+    },
+    {
+      "id": 7,
+      "name": "Pleated Midi Skirt",
+      "category": "Women's Fashion",
+      "price": 1399,
+      "currency": "INR",
+      "rating": 4.5,
+      "stock": 21,
+      "image": "https://images.pexels.com/photos/985635/pexels-photo-985635.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Stylish pleated midi skirt with an elegant flowing silhouette."
+    },
+
+    {
+      "id": 3,
+      "name": "Satin Party Dress",
+      "category": "Women's Fashion",
+      "price": 2299,
+      "currency": "INR",
+      "rating": 4.8,
+      "stock": 14,
+      "image": "https://images.pexels.com/photos/18234835/pexels-photo-18234835.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Elegant satin party dress with a polished evening look."
+    },
+    {
+      "id": 4,
+      "name": "Relaxed Linen Shirt",
+      "category": "Women's Fashion",
+      "price": 1299,
+      "currency": "INR",
+      "rating": 4.4,
+      "stock": 25,
+      "image": "https://images.pexels.com/photos/1055691/pexels-photo-1055691.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Lightweight linen shirt designed for relaxed everyday outfits."
+    },
+    {
+      "id": 5,
+      "name": "High Waist Wide Leg Pants",
+      "category": "Women's Fashion",
+      "price": 1599,
+      "currency": "INR",
+      "rating": 4.6,
+      "stock": 20,
+      "image": "https://images.pexels.com/photos/31400266/pexels-photo-31400266.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Modern wide-leg pants with a high-rise silhouette and fashionable fit."
+    },
+    {
+      "id": 6,
+      "name": "Casual Denim Jacket",
+      "category": "Women's Fashion",
+      "price": 2199,
+      "currency": "INR",
+      "rating": 4.7,
+      "stock": 17,
+      "image": "https://images.pexels.com/photos/10038400/pexels-photo-10038400.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Casual women's denim jacket for versatile everyday layering."
+    },
+
+    {
+      "id": 8,
+      "name": "Premium Knit Cardigan",
+      "category": "Women's Fashion",
+      "price": 1799,
+      "currency": "INR",
+      "rating": 4.6,
+      "stock": 16,
+      "image": "https://images.pexels.com/photos/2531089/pexels-photo-2531089.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Soft knit cardigan designed for comfortable layered outfits."
+    },
+    {
+      "id": 9,
+      "name": "Everyday Cotton Kurti",
+      "category": "Women's Fashion",
+      "price": 999,
+      "currency": "INR",
+      "rating": 4.7,
+      "stock": 28,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuwIsbC9V2_w0SilJWElcbIhMHeF5D69qyMKa76IrPWA&s=10",
+      "description": "Comfortable cotton kurti inspired by modern Indian everyday fashion."
+    },
+    {
+      "id": 10,
+      "name": "Elegant Evening Gown",
+      "category": "Women's Fashion",
+      "price": 2999,
+      "currency": "INR",
+      "rating": 4.8,
+      "stock": 10,
+      "image": "https://images.pexels.com/photos/17167550/pexels-photo-17167550.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Elegant evening gown designed for parties, celebrations and special occasions."
+    }
+  ],
+  "accessories": [
+    {
+      "id": 1,
+      "name": "Premium Analog Watch",
+      "category": "Accessories",
+      "price": 2499,
+      "currency": "INR",
+      "rating": 4.8,
+      "stock": 14,
+      "image": "https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Premium analog wristwatch with an elegant metal band."
+    },
+    {
+      "id": 2,
+      "name": "Classic Leather Wallet",
+      "category": "Accessories",
+      "price": 999,
+      "currency": "INR",
+      "rating": 4.7,
+      "stock": 32,
+      "image": "https://images.pexels.com/photos/27467366/pexels-photo-27467366.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Classic leather wallet with a sleek everyday design."
+    },
+
+    {
+      "id": 4,
+      "name": "Minimal Steel Watch",
+      "category": "Accessories",
+      "price": 3199,
+      "currency": "INR",
+      "rating": 4.7,
+      "stock": 12,
+      "image": "https://images.pexels.com/photos/5788855/pexels-photo-5788855.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Minimal stainless-steel wristwatch with a clean modern design."
+    },
+    {
+      "id": 5,
+      "name": "Aviator Metal Watch",
+      "category": "Accessories",
+      "price": 2799,
+      "currency": "INR",
+      "rating": 4.6,
+      "stock": 11,
+      "image": "https://images.pexels.com/photos/36366578/pexels-photo-36366578.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Aviator-inspired chronograph watch with a stainless-steel bracelet."
+    },
+    {
+      "id": 6,
+      "name": "Leather Bracelet",
+      "category": "Accessories",
+      "price": 599,
+      "currency": "INR",
+      "rating": 4.4,
+      "stock": 35,
+      "image": "https://images.pexels.com/photos/16304597/pexels-photo-16304597.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Stylish leather and metal bracelet for casual everyday wear."
+    },
+    {
+      "id": 7,
+      "name": "Classic Tie",
+      "category": "Accessories",
+      "price": 499,
+      "currency": "INR",
+      "rating": 4.5,
+      "stock": 29,
+      "image": "https://images.pexels.com/photos/15036737/pexels-photo-15036737.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Classic necktie accessory for formal and office outfits."
+    },
+    {
+      "id": 8,
+      "name": "Silk Pocket Square",
+      "category": "Accessories",
+      "price": 449,
+      "currency": "INR",
+      "rating": 4.5,
+      "stock": 24,
+      "image": "https://images.pexels.com/photos/11911796/pexels-photo-11911796.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Elegant pocket square designed for formal suits and blazers."
+    },
+    {
+      "id": 9,
+      "name": "Statement Pendant",
+      "category": "Accessories",
+      "price": 899,
+      "currency": "INR",
+      "rating": 4.7,
+      "stock": 18,
+      "image": "https://images.pexels.com/photos/4295005/pexels-photo-4295005.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Statement pendant necklace with an elegant silver design."
+    },
+    {
+      "id": 10,
+      "name": "Premium Card Holder",
+      "category": "Accessories",
+      "price": 699,
+      "currency": "INR",
+      "rating": 4.6,
+      "stock": 27,
+      "image": "https://images.pexels.com/photos/37326711/pexels-photo-37326711.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Slim leather card holder designed for everyday essentials."
+    }
+  ],
+  "footwear": [
+    {
+      "id": 1,
+      "name": "Classic White Sneakers",
+      "category": "Footwear",
+      "price": 1999,
+      "currency": "INR",
+      "rating": 4.7,
+      "stock": 24,
+      "image": "https://images.pexels.com/photos/6050912/pexels-photo-6050912.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Clean white sneakers with a modern minimalist design for everyday casual wear."
+    },
+    {
+      "id": 2,
+      "name": "Urban Running Shoes",
+      "category": "Footwear",
+      "price": 2299,
+      "currency": "INR",
+      "rating": 4.6,
+      "stock": 20,
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Lightweight running shoes designed for active everyday movement."
+    },
+    {
+      "id": 3,
+      "name": "Premium Leather Loafers",
+      "category": "Footwear",
+      "price": 2499,
+      "currency": "INR",
+      "rating": 4.8,
+      "stock": 16,
+      "image": "https://images.pexels.com/photos/8193568/pexels-photo-8193568.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Premium leather loafers with a polished design for smart casual outfits."
+    },
+    {
+      "id": 4,
+      "name": "Casual Canvas Shoes",
+      "category": "Footwear",
+      "price": 1399,
+      "currency": "INR",
+      "rating": 4.5,
+      "stock": 28,
+      "image": "https://images.pexels.com/photos/1456733/pexels-photo-1456733.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Comfortable canvas shoes for relaxed everyday styling."
+    },
+    {
+      "id": 5,
+      "name": "Classic Chelsea Boots",
+      "category": "Footwear",
+      "price": 2999,
+      "currency": "INR",
+      "rating": 4.8,
+      "stock": 13,
+      "image": "https://images.pexels.com/photos/35654955/pexels-photo-35654955.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Classic black leather Chelsea boots with a timeless silhouette."
+    },
+    {
+      "id": 6,
+      "name": "Comfort Walking Shoes",
+      "category": "Footwear",
+      "price": 1799,
+      "currency": "INR",
+      "rating": 4.5,
+      "stock": 23,
+      "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Comfort-focused walking shoes designed for everyday use."
+    },
+    {
+      "id": 7,
+      "name": "Minimal Slip-On Shoes",
+      "category": "Footwear",
+      "price": 1599,
+      "currency": "INR",
+      "rating": 4.4,
+      "stock": 26,
+      "image": "https://images.pexels.com/photos/1124466/pexels-photo-1124466.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Minimal slip-on shoes offering easy wear and a clean casual look."
+    },
+    {
+      "id": 9,
+      "name": "Elegant Block Heels",
+      "category": "Footwear",
+      "price": 2199,
+      "currency": "INR",
+      "rating": 4.6,
+      "stock": 15,
+      "image": "https://images.pexels.com/photos/336372/pexels-photo-336372.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Elegant block heels designed for polished outfits and occasions."
+    },
+    {
+      "id": 10,
+      "name": "Classic Casual Sandals",
+      "category": "Footwear",
+      "price": 899,
+      "currency": "INR",
+      "rating": 4.4,
+      "stock": 30,
+      "image": "https://images.pexels.com/photos/137603/pexels-photo-137603.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Comfortable casual sandals for relaxed everyday wear."
+    }
+  ],
+  "bags": [
+    {
+      "id": 2,
+      "name": "Urban Laptop Backpack",
+      "category": "Bags",
+      "price": 2499,
+      "currency": "INR",
+      "rating": 4.6,
+      "stock": 22,
+      "image": "https://images.pexels.com/photos/14039946/pexels-photo-14039946.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Modern leather backpack suitable for work, college and everyday carrying."
+    },
+    {
+      "id": 3,
+      "name": "Minimal Crossbody Bag",
+      "category": "Bags",
+      "price": 1499,
+      "currency": "INR",
+      "rating": 4.5,
+      "stock": 25,
+      "image": "https://images.pexels.com/photos/27204286/pexels-photo-27204286.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Minimal brown leather crossbody bag with an adjustable strap."
+    },
+    {
+      "id": 4,
+      "name": "Premium Tote Bag",
+      "category": "Bags",
+      "price": 1899,
+      "currency": "INR",
+      "rating": 4.7,
+      "stock": 20,
+      "image": "https://images.pexels.com/photos/36356746/pexels-photo-36356746.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Elegant light-gray tote bag with a spacious modern design."
+    },
+    {
+      "id": 5,
+      "name": "Travel Duffel Bag",
+      "category": "Bags",
+      "price": 2299,
+      "currency": "INR",
+      "rating": 4.8,
+      "stock": 16,
+      "image": "https://images.pexels.com/photos/1058959/pexels-photo-1058959.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Classic brown leather duffel bag designed for travel and weekend trips."
+    },
+    {
+      "id": 6,
+      "name": "Canvas Shoulder Bag",
+      "category": "Bags",
+      "price": 1299,
+      "currency": "INR",
+      "rating": 4.5,
+      "stock": 27,
+      "image": "https://images.pexels.com/photos/33708893/pexels-photo-33708893.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Stylish beige canvas tote-style shoulder bag with leather trims."
+    },
+    {
+      "id": 7,
+      "name": "Elegant Handbag",
+      "category": "Bags",
+      "price": 1999,
+      "currency": "INR",
+      "rating": 4.7,
+      "stock": 14,
+      "image": "https://images.pexels.com/photos/167703/pexels-photo-167703.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Elegant brown leather handbag with a polished fashion-forward look."
+    },
+    {
+      "id": 8,
+      "name": "Compact Sling Bag",
+      "category": "Bags",
+      "price": 999,
+      "currency": "INR",
+      "rating": 4.4,
+      "stock": 33,
+      "image": "https://images.pexels.com/photos/14837855/pexels-photo-14837855.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Compact white shoulder sling bag with a simple urban design."
+    },
+    {
+      "id": 9,
+      "name": "Weekend Travel Bag",
+      "category": "Bags",
+      "price": 2599,
+      "currency": "INR",
+      "rating": 4.8,
+      "stock": 12,
+      "image": "https://images.pexels.com/photos/9582664/pexels-photo-9582664.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Spacious stylish duffel bag designed for weekend travel."
+    },
+    {
+      "id": 10,
+      "name": "Structured Office Bag",
+      "category": "Bags",
+      "price": 2399,
+      "currency": "INR",
+      "rating": 4.6,
+      "stock": 15,
+      "image": "https://images.pexels.com/photos/26903900/pexels-photo-26903900.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Structured black leather tote bag with a professional office-ready appearance."
+    }
+  ],
+  "sunglasses": [
+    {
+      "id": 1,
+      "name": "Classic Black Aviators",
+      "category": "Sunglasses",
+      "price": 999,
+      "currency": "INR",
+      "rating": 4.7,
+      "stock": 24,
+      "image": "https://images.pexels.com/photos/36824973/pexels-photo-36824973.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Classic black aviator sunglasses with dark lenses and a sleek metal frame."
+    },
+    {
+      "id": 2,
+      "name": "Premium Round Sunglasses",
+      "category": "Sunglasses",
+      "price": 1299,
+      "currency": "INR",
+      "rating": 4.6,
+      "stock": 19,
+      "image": "https://images.pexels.com/photos/10260111/pexels-photo-10260111.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Stylish round-frame sunglasses with a modern colored-lens look."
+    },
+    {
+      "id": 3,
+      "name": "Urban Square Sunglasses",
+      "category": "Sunglasses",
+      "price": 1199,
+      "currency": "INR",
+      "rating": 4.5,
+      "stock": 27,
+      "image": "https://images.pexels.com/photos/25389284/pexels-photo-25389284.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Modern square-frame sunglasses with dark brown lenses."
+    },
+    {
+      "id": 4,
+      "name": "Classic Wayfarer Shades",
+      "category": "Sunglasses",
+      "price": 899,
+      "currency": "INR",
+      "rating": 4.7,
+      "stock": 31,
+      "image": "https://images.pexels.com/photos/845247/pexels-photo-845247.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Classic black wayfarer sunglasses with a timeless casual style."
+    },
+    {
+      "id": 5,
+      "name": "Polarized Sport Sunglasses",
+      "category": "Sunglasses",
+      "price": 1499,
+      "currency": "INR",
+      "rating": 4.6,
+      "stock": 18,
+      "image": "https://images.pexels.com/photos/5675655/pexels-photo-5675655.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Sporty sunglasses with a practical modern frame for outdoor activities."
+    },
+    {
+      "id": 6,
+      "name": "Retro Brown Sunglasses",
+      "category": "Sunglasses",
+      "price": 1099,
+      "currency": "INR",
+      "rating": 4.5,
+      "stock": 22,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdSYDlIMh49enqXFIO7Icoaxg_PwoWufWAdcMWYcsQVuBduzJZNzhfaNU&s=10",
+      "description": "Retro-inspired brown sunglasses with a sophisticated fashion look."
+    },
+
+    {
+      "id": 8,
+      "name": "Luxury Gold Frame Shades",
+      "category": "Sunglasses",
+      "price": 1799,
+      "currency": "INR",
+      "rating": 4.8,
+      "stock": 13,
+      "image": "https://images.pexels.com/photos/700728/pexels-photo-700728.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Elegant gold-frame sunglasses with a premium luxury-inspired appearance."
+    },
+    {
+      "id": 9,
+      "name": "Oversized Fashion Sunglasses",
+      "category": "Sunglasses",
+      "price": 1299,
+      "currency": "INR",
+      "rating": 4.6,
+      "stock": 17,
+      "image": "https://images.pexels.com/photos/9418887/pexels-photo-9418887.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Fashion-forward sunglasses with an oversized styling and bold appearance."
+    },
+    {
+      "id": 10,
+      "name": "Matte Black Clubmaster",
+      "category": "Sunglasses",
+      "price": 1399,
+      "currency": "INR",
+      "rating": 4.7,
+      "stock": 16,
+      "image": "https://images.pexels.com/photos/229820/pexels-photo-229820.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Classic black-frame sunglasses with a distinctive wayfarer-style silhouette."
+    }
+  ]
+}
